@@ -14,10 +14,10 @@ const Footer = () => {
 
   return (
     <footer className={classes.footer}>
-      <Typography variant="h6" align="center" gutterBottom>
+      <Typography variant='h6' align='center' gutterBottom>
         Ygor Santos
       </Typography>
-      <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
+      <Typography variant='subtitle1' align='center' color='textSecondary' component='p'>
         Software Developer
       </Typography>
     </footer>

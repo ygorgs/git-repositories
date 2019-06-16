@@ -13,11 +13,11 @@ const Header = () => {
   const classes = styles();
 
   return (
-    <AppBar position="relative" color="primary">
+    <AppBar position='relative' color='primary'>
       <Toolbar>
         <FolderRounded className={classes.icon}/>
-        <Typography variant="h6" color="inherit">
-          Repositories
+        <Typography variant='h6' color='inherit'>
+          Repositorios
         </Typography>
       </Toolbar>
     </AppBar>
